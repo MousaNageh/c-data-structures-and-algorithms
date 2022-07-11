@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stackwitharray.cpp": "c",
+        "stackwitharray.h": "c",
+        "queue.h": "c",
+        "stack.cpp": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
